@@ -7,7 +7,7 @@
 
 - 🔥 Hi, I'm **Fazry Rayzan AKA FzeeyNa(Fazry naira)**
 - 👀 I’m interested in Web & Mobile Development
-- 🌱 I’m currently learning Laravel & Java (Android)
+- 🌱 I’m currently learning Laravel, CodeIgniter & Java (Android)
 - 💬 I’m looking to collaborate on tech-based school & UMKM projects
 
 ---
@@ -25,9 +25,11 @@
 
 ## 🧩 My Top Frameworks / Libraries
 <p>
-  <img src="https://laravel.com/img/logomark.min.svg" width="50" />
-  <img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" />
+  <img src="https://laravel.com/img/logomark.min.svg" width="50" title="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="50" title="CodeIgniter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" title="Vue.js" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" title="Tailwind CSS" />
 </p>
 
 ---
@@ -35,8 +37,8 @@
 ## 📊 My GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=FzeeyNa&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FzeeyNa&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FzeeyNa&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FzeeyNa&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
