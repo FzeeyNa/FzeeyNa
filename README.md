@@ -5,7 +5,7 @@
 
 # Welcome to My Github Repo! 👋
 
-- 🔥 Hi, I'm **Fazry Rayzan AKA FzeeyNa(Fazry naira)**
+- 🔥 Hi, I'm **Fazry Rayzan AKA FzeeyNa**
 - 👀 I’m interested in Web & Mobile Development
 - 🌱 I’m currently learning Laravel, CodeIgniter & Java (Android)
 - 💬 I’m looking to collaborate on tech-based school & UMKM projects
