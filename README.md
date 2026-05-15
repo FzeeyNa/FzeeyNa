@@ -1,108 +1,129 @@
-<!-- View counter -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=FzeeyNa&label=Profile%20views&color=0e75b6&style=flat" alt="FzeeyNa" />
-</p>
+<div align="center">
 
-<h1 align="center">Hey there! I'm Fazry Rayzan 👋</h1>
-<h3 align="center">🚀 Web & Mobile Developer from Indonesia</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Fazry+Rayzan+%F0%9F%91%8B;Web+%26+Mobile+Developer+%F0%9F%9A%80;Laravel+%7C+CodeIgniter+%7C+Android+%F0%9F%93%B1;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=FzeeyNa&label=Profile%20Views&color=ff6b9d&style=flat-square" alt="profile views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/FzeeyNa?label=Followers&style=flat-square&color=7c3aed" />
+
+</div>
+
+---
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding" />
+
+## 👨‍💻 About Me
+
+```yaml
+name        : Fazry Rayzan
+alias       : FzeeyNa
+location    : Indonesia 🇮🇩
+role        : Web & Mobile Developer
+focus       : School & UMKM tech projects
+learning    : Laravel · CodeIgniter · Java Android
+open_to     : Collaboration & freelance projects
+```
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=FzeeyNa&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="stats"/>
+&nbsp;
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FzeeyNa&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165" alt="langs"/>
 
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
-
-### 👨‍💻 About Me
-
-- 🔥 I'm **FzeeyNa** — passionate about building digital solutions
-- 👀 Interested in **Web & Mobile Development**
-- 🌱 Currently learning **Laravel**, **CodeIgniter** & **Java (Android)**
-- 🤝 Looking to collaborate on **tech-based school & UMKM projects**
-- 📍 Based in **Indonesia**
-- 💬 Ask me about **PHP, JavaScript, or anything web!**
+<img src="https://streak-stats.demolab.com/?user=FzeeyNa&theme=radical&hide_border=true" alt="streak"/>
 
 <br/>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FzeeyNa&theme=redical&hide_border=true&area=true" alt="activity graph"/>
 
-### 🛠️ Tech Stack
-
-**Languages**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
-</p>
-
-**Frameworks & Libraries**
-
-<p>
-  <img src="https://laravel.com/img/logomark.min.svg" width="40" title="Laravel" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="40" title="CodeIgniter" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React.js" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" title="Vue.js" />
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" title="Tailwind CSS" />
-</p>
-
-**Tools & Platforms**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" title="Android Studio" />
-</p>
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FzeeyNa&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FzeeyNa&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=FzeeyNa&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FzeeyNa&theme=redical&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FzeeyNa&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies"/>
+</div>
 
 ---
 
-### 🌱 What I'm Currently Working On
+## 🌱 Currently Working On
 
-- 📱 Exploring **Android development** with Java
-- 🔧 Building projects with **Laravel** and **CodeIgniter**
-- 💡 Creating tools to support **local Indonesian SMEs (UMKM)**
+<table>
+  <tr>
+    <td>📱</td>
+    <td>Exploring <strong>Android development</strong> with Java</td>
+  </tr>
+  <tr>
+    <td>🔧</td>
+    <td>Building real-world projects with <strong>Laravel</strong> & <strong>CodeIgniter</strong></td>
+  </tr>
+  <tr>
+    <td>💡</td>
+    <td>Creating digital tools for <strong>Indonesian SMEs (UMKM)</strong></td>
+  </tr>
+  <tr>
+    <td>🎓</td>
+    <td>Developing <strong>tech-based solutions for schools</strong></td>
+  </tr>
+</table>
 
 ---
 
-### 🤝 Let's Connect!
+## 🤝 Let's Connect
 
-<p>
-  <a href="https://github.com/FzeeyNa">
-    <img src="https://img.shields.io/badge/GitHub-FzeeyNa-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-FzeeyNa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FzeeyNa)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>✨ "Keep building, keep learning." ✨</i>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B9D&height=80&section=footer" alt="footer wave"/>
+
+  <i>✨ "Keep building, keep learning — satu langkah setiap hari." ✨</i>
+</div>
